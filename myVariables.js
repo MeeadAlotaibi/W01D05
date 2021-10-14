@@ -4,10 +4,12 @@
  let length , width , area;
  length = 10;
  width = 5 ;
-  area = length * width
-
+area = length * width
 console.log("The area of the rectangle is " + area + " where "+ length +" and " + width +" is the area you calculated.");
- let num1 ,num2 , result ;
+ 
+
+// the EXTRA point in First Task :
+let num1 ,num2 , result ;
  num1 = 7;
  num2 = 2 ;
  result = num1 % num2 ;
